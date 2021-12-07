@@ -7,6 +7,7 @@ import { robots } from './robots';
 
 ReactDOM.render(
   <React.StrictMode>
+    {/* for git change */}
     <App />
   </React.StrictMode>,
   document.getElementById('root')
